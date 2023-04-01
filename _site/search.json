@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Birdbook",
+    "section": "",
+    "text": "This is a Quarto website."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "identificatie.html",
+    "href": "identificatie.html",
+    "title": "Identificatie",
+    "section": "",
+    "text": "Piepers\n\n\nKiekendieven\n\n\nMeeuwen"
+  },
+  {
+    "objectID": "identificatie.html#algemeen-meeuwen",
+    "href": "identificatie.html#algemeen-meeuwen",
+    "title": "Identificatie",
+    "section": "Algemeen meeuwen",
+    "text": "Algemeen meeuwen"
+  },
+  {
+    "objectID": "identificatie.html#pontische-meeuw",
+    "href": "identificatie.html#pontische-meeuw",
+    "title": "Identificatie",
+    "section": "Pontische meeuw",
+    "text": "Pontische meeuw"
+  }
+]

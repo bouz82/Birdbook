@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "birdbook"
+  navbar:
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: tellen.qmd
+        text: Tellen
+      - href: identificatie.qmd
+        text: Identificatie
+  
+  sidebar:
+    - title: "Telprojecten"
+      style: "docked"
+      contents:
+        - text: "Telprojecten"
+          file: tellen.qmd
+        - text: "BMP tellingen"
+          file: telprojecten/bmp.qmd
+        - text: "Wintervogeltelling"
+          file: telprojecten/wintervogels.qmd
+        - text: "Slaapplaatstelling kiekendieven"
+          file: telprojecten/slaapplaats_kieken.qmd
+        
+    - title: "Identificatie"
+      contents:
+        - text: "Identificatie"
+          file: identificatie.qmd
+        - text: "Meeuwen"
+          file: soortgroepen/meeuwen.qmd
+        - text: "Piepers"
+          file: soortgroepen/piepers.qmd
+        - text: "Kiekendieven"
+          file: soortgroepen/kiekendieven.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
+
