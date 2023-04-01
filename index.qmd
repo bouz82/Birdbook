@@ -3,5 +3,3 @@ title: "Birdbook"
 ---
 
 This is a Quarto website.
-
-
