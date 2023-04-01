@@ -1,8 +1,10 @@
 ---
 title: "Piepers"
 ---
-:::{.callout-tip}
+
+::: callout-tip
 ## Algemeen
+
 De meest algemene piepers in Nederland zijn de waterpieper (wintergast), oeverpieper (wintergast), boompieper (zomergast) en graspieper (standvogel). De meeste andere piepers zijn dwaalgasten.
 :::
 
@@ -22,7 +24,18 @@ De **oeverpieper** lijkt veel op de waterpieper maar heeft i.t.t. de waterpieper
 
 De **graspieper** heeft vrij duidelijk afgetekende strepen op de borst en flank en lichte poten. Ook duidelijke strepen op de rug. Juveniele graspiepers hebben geen strepen op de flanken.
 
+    
+![Graspieper gefotografeerd 01-04-2023](piepers_img/graspieper_63686975.jpg)
+
+
+Foto: [Henri Hamer](https://waarneming.nl/photos/63686975/)
+
 De **boompieper** lijkt op de graspieper. Heeft net als graspieper lichtkleurige poten en verder op basis van verenkleed lastig van graspieper te onderscheiden. De flankstrepen van een **boompieper** zijn dunner en fijner dan die van de graspieper, waar op foto's graspiepers duidelijk zichtbare strepen hebben tussen borst en poten zijn bij de boompieper deze strepen veel vager of bijna niet te zien. Meest duidelijk is het verschil in de zang en de habitat.
+
+![Boompieper gefotografeerd 02-10-2022. Vergelijk streping flank met graspieper](piepers_img/boompieper_58784271.jpg)
+
+
+Foto: [Marco Blanker](https://waarneming.nl/photos/58784271/)
 
 De **waterpieper** is in broedkleed (in voorjaar voor trek naar broedgebieden) goed te herkennen aan grijze rug en roze borst, met duidelijke wenkbrouwstreep.
 
