@@ -1,0 +1,95 @@
+---
+title: "BMP tellingen"
+---
+
+### Broedcodes
+
+::: {.callout-note collapse="true"}
+## CODE 0. Niet-territorium-indicerende waarnemingen buiten geschikt broedbiotoop
+Bijv. een groep Rotganzen, een Witgat in een sloot,
+maar ook: een groep Krakeenden eind maart op een kaal zandgat. Dit type waarnemingen hoeft niet genoteerd te worden, het zijn per definitie geen geldige waarnemin- gen. Wil je ze toch noteren, hanteer dan de code 0. Ze doen niet mee bij de interpretatie.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 1. Volwassen individu in mogelijk broedbiotoop
+Geef tenminste bij Wilde Eend, Soepeend, Tafeleend, Kuifeend, Middelste Zaagbek, Korhoen, Fazant, Kievit, Kemphaan, Baardman en Huismus aan of het een man- netje dan wel vrouwtje betreft. Dit heeft bij deze soorten namelijk invloed op de bepaling van het aantal territoria.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 2. Zingend of baltsend individu in geschikt broed- biotoop
+In bos, struweel, moeras en stedelijk gebied is dit veruit de meest gebruikte broedcode, met name voor zangvo- gels.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 3. Paar in geschikt broedbiotoop
+Veel voorkomende code bij niet-zangvogels. Een baltsend paar krijgt code 5.
+Let op: een zingende vogel telt bij de clustering vaak zwaarder dan een paartje! Heb je de keuze tussen code 3 of code 2, noteer dan code 2.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 5. Baltsend paar in broedbiotoop
+Hieronder valt ook voeren van een vrouwtje door het mannetje.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 6. Bezoek van een vogel aan een waarschijnlijke nestplaats
+Bijv. Huismus die onder dakpan kruipt, Boerenzwaluw die schuur invliegt. Let op: één waarneming van deze code leidt vaak niet direct tot een territorium, terwijl dat vanaf broedcode 7 veelal wel het geval is.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 7. Alarmeren/angstkreten of ander gedrag dat wijst op aanwezigheid van nest of jongen
+Let op: soms alarmeren vogels zonder dat sprake is van een broedgeval, of zijn de jongen al ver van het nest ver- wijderd (vooral bij ganzen, eenden, Kievit, Grutto). Dan deze code niet gebruiken; let daarom goed op of de vogel plaatsgebonden is.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 9. Transport van nestmateriaal/nestbouw/ uithakken of graven nestholte
+Achterhaal zo goed mogelijk waar de vogel naar toe vliegt en noteer de waarneming op die plek op de kaart. Voor- kom zo dat het territorium uiteindelijk op de plaats komt waar de vogel bijv. takken voor het nest verzamelt.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 10. Afleidingsgedrag
+De vogel doet alsof hij verlamd/gewond is en lokt zo de waarnemer van het nest. Dit gedrag komt voor bij in open terrein broedende eenden en steltlopers en bij enkele zangvogels, waaronder Rietgors.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 11. Pas gebruikt nest of eierschalen
+Let op: eierschalen kunnen verplaatst zijn door een pre- dator en van een andere locatie afkomstig zijn. Bij twijfel deze code niet gebruiken.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 12. Pas uitgevlogen nestblijvers, of uitgelopen donsjongen van nestvlieders
+Gebruik deze code bij nestvlieders alleen bij jonge pul- len nabij het vermoedelijke nest. Niet gebruiken voor verzamelplaatsen van pullen, waar bijv. families Grauwe Ganzen of Bergeenden uit de wijde omgeving naartoe trekken, of waar jonge Kieviten en Grutto’s opgroeien. Ze kunnen binnen enkele dagen ver van de nestomgeving zijn verwijderd.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 13. Gebruikt nest met onbekende inhoud
+Bezoek van oudervogel aan een nest waarvan de inhoud niet kan worden vastgesteld, of waarneming van een broedende vogel. Voorbeeld: Zwarte Kraai in broedhou- ding op nest hoog in boom.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 14. Transport voedsel of ontlasting
+Vooral bij zangvogels een goed bruikbare code. Niet zo- maar gebruiken bij soorten die vaak lange voedselvluch- ten maken, zoals meeuwen, sterns en IJsvogel. Ook niet gebruiken bij het voeren van reeds uitgevlogen jongen.
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 15. Nest met eieren 
+:::
+
+::: {.callout-note collapse="true"}
+## CODE 16. Nest met jongen
+:::
+
+::: {.callout-warning}
+`CODE 4` (territoriumgedrag op dezelfde plaats, vast- gesteld minstens 10 dagen uit elkaar) en `CODE 8` (vogel met broedvlekken, alleen in de hand vast te stellen) worden in het veld niet gebruikt.
+:::
+
+Er zijn zes categorieën van broedcodes:
+
+* Zeker geen broedvogel: broedcode 0
+* Volwassen individu in broedbiotoop: broedcode 1
+* Paren in broedbiotoop: broedcode 3
+* Territorium-indicerend: broedcode 2, 5, 6
+* Nest-indicerend: broedcode 7, 9, 10, 11, 12, 14
+* Nestvondsten: broedcode 13, 15, 16
+
+Bron: Vergeer J.W., Boele A., van Bruggen J. & van Turnhout C. 2023. Handleiding Sovon Broedvogelmonitoring: Broedvogel Monitoring Project en kolonievogels. Sovon Vogelonderzoek Nederland, Nijmegen. 

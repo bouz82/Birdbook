@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "birdbook"
+  title: "Vogelnotities"
   navbar:
     search: true
     left:
@@ -20,22 +20,24 @@ website:
         - text: "Telprojecten"
           file: tellen.qmd
         - text: "BMP tellingen"
-          file: telprojecten/bmp.qmd
+          file: telprojecten/bmp/bmp.qmd
         - text: "Wintervogeltelling"
-          file: telprojecten/wintervogels.qmd
+          file: telprojecten/watervogels/watervogels.qmd
         - text: "Slaapplaatstelling kiekendieven"
-          file: telprojecten/slaapplaats_kieken.qmd
+          file: telprojecten/slaapplaats/slaapplaats_kieken.qmd
         
     - title: "Identificatie"
       contents:
         - text: "Identificatie"
           file: identificatie.qmd
         - text: "Meeuwen"
-          file: soortgroepen/meeuwen.qmd
+          file: soortgroepen/meeuwen/meeuwen.qmd
         - text: "Piepers"
-          file: soortgroepen/piepers.qmd
+          file: soortgroepen/piepers/piepers.qmd
         - text: "Kiekendieven"
-          file: soortgroepen/kiekendieven.qmd
+          file: soortgroepen/kiekendieven/kiekendieven.qmd
+        - text: "Ganzen"
+          file: soortgroepen/ganzen/ganzen.qmd
 
 
 format:

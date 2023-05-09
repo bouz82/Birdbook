@@ -1,5 +1,7 @@
 ---
-title: "Birdbook"
+title: "Vogelnotities"
 ---
 
-This is a Quarto website.
+Deze website bevat handige geheugensteuntjes voor in het veld. Alle foto's komen van [waarneming.nl](www.waarneming.nl) (tenzij anders aangegeven) en hebben een Creative Commons licentie. Mocht je vragen hebben stuur dan een [e-mail](mailto:belegslag_scriba_0i@icloud.com).
+
+De Github repository is [hier](https://github.com/bouz82/Birdbook) te vinden.
